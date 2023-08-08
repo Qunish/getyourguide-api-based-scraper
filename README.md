@@ -38,5 +38,3 @@ To use the PV spider:
 1. Ensure that the MongoDB is running on your local machine or replace the `MONGODB_URI` variable with your MongoDB connection URI.
 
 2. Run the notebook and execute each cell to perform the web scraping and update the data in the MongoDB database.
-
-**Note**: Both web scrapers use Selenium for automation, and web scraping may be subject to website terms of service. Always check a website's terms of service and robots.txt file before scraping data. Additionally, use web scraping responsibly and respectfully to avoid IP blocking or other issues.# getyourguide-api-based-scraper
